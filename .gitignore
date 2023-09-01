@@ -1,4 +1,5 @@
 # Byte-compiled / optimized / DLL files
+#ensure that pycache actually gets ignored by git? shows up in VS Code regardless
 __pycache__/
 *.py[cod]
 *$py.class
